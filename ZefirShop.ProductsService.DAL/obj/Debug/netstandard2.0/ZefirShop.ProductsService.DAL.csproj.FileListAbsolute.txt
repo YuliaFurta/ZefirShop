@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\bin\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.deps.json
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\bin\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.dll
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\obj\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\obj\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\obj\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\obj\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\bin\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.pdb
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\obj\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.dll
+C:\Users\User\source\repos\ZefirShop\ZefirShop.ProductsService.DAL\obj\Debug\netstandard2.0\ZefirShop.ProductsService.DAL.pdb
